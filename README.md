@@ -1,5 +1,5 @@
 # docker-http-auth
-A HTTP Auth Docker Honeypot using python
+A HTTP Auth Docker Honeypot using python.
 
 This is a basic HTTP Auth Honeypot that logs all attempts to connect to it.
 
