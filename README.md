@@ -8,3 +8,5 @@ This is a basic HTTP Auth Honeypot that logs all attempts to connect to it.
 It uses https://github.com/bjeborn/basic-auth-pot please check their readme for full customisation.
 
 Alpine base and about 84mb in size.
+
+log file is called bap.log
